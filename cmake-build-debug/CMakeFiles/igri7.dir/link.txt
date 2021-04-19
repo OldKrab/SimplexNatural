@@ -1,0 +1,3 @@
+"D:\Program FIles\JetBrains\CLion 2020.3.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\igri7.dir/objects.a
+"D:\Program FIles\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\ar.exe" cr CMakeFiles\igri7.dir/objects.a @CMakeFiles\igri7.dir\objects1.rsp
+"D:\Program FIles\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe" -g -Wl,--whole-archive CMakeFiles\igri7.dir/objects.a -Wl,--no-whole-archive -o igri7.exe -Wl,--out-implib,libigri7.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\igri7.dir\linklibs.rsp
